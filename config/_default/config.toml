@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://ikaomoji.com"
+baseurl = "https://blog.ikaomoji.com"
 languageCode = "ja"
 paginate = 5
 title = "顔文字の世界"
