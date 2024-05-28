@@ -10,7 +10,7 @@
 
 [[main]]
 name = "顔文字一覧"
-url = "https://blog.ikaomoji.com/"
+url = "https://ikaomoji.com/"
 weight = 10
 identifier = "ikaomoji"
 [main.params]
