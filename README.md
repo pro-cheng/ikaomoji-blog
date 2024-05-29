@@ -1,57 +1,48 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+# 可愛い顔文字の世界 - 感情を表現する「顔文字」活用術
 
-# Hugo Theme Stack Starter Template
+## はじめに
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+インターネットやコミュニケーションアプリの普及により、日常的に顔文字を使う機会が増えてきました。特に"かわいい"顔文字は、気持ちを上手に表現できると人気があります。このブログでは、[顔文字一覧](https://ikaomoji.com) に掲載されている可愛らしい顔文字の特徴や使い分け方を詳しく解説していきます。
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+## 顔文字の基本
 
-## Get started
+顔文字とは、文字を使って人の表情や仕草を表現したものです。基本的な構造は「目」「口」「その他の要素」から成り立っています。例えば、「(´▽`)」は丸い目と口が特徴的な喜びの表情を表しています。
 
-1. Click *Use this template*, and create your repository on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+顔文字には様々な種類がありますが、特に人気なのが"かわいい"顔文字です。[顔文字一覧](https://ikaomoji.com) では、「かわいい」カテゴリに多数のキュートな顔文字が紹介されています。
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+## 可愛らしい顔文字の特徴
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+[顔文字一覧](https://ikaomoji.com) に掲載されている"かわいい"顔文字にはいくつかの共通の特徴があります。
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL.
+- 丸みを帯びた目と口
+- 小さな印象の表情
+- 恥じらいや喜びなどの柔らかい感情を表現
 
-5. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page associated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+このような特徴から、"かわいい"顔文字は相手に優しい印象を与えることができます。相手の気持ちを和ませたり、コミュニケーションを円滑にしたりするのに効果的です。
 
----
+## 用途別のかわいい顔文字
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
+[顔文字一覧](https://ikaomoji.com) の「かわいい」カテゴリには、さまざまな表情の顔文字が集められています。状況に合わせて上手に使い分けることで、より効果的にコミュニケーションを取ることができます。
 
-## Update theme manually
+### 挨拶時
 
-Run:
+- こんにちは：(○ ́∀`)ノ゙こんにちゎ ★
+- おはよう：( ・ω・)ノ Good Morning~♪
+- こんばんは：( ́,,•ω•,,)ノ′′こんばんわ ♪
 
-```bash
-hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
-hugo mod tidy
-```
+### 感謝・謝罪時
 
-> This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
+- ありがとう：アリガト ☆(。>∀<。)
+- ごめんなさい：*|\○*土下座
 
-## Deploy to another static page hostings
+### その他
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+- 喜び：(° ̆°)нарру♡
+- 照れ：(〃ω〃)
+- 寝顔：(っ ̯ -。)ネムネム
 
-<details>
-  <summary>Vercel</summary>
-  
-You need to overwrite build command to install manually Go:
+このように、[顔文字一覧](https://ikaomoji.com) の可愛らしい顔文字は、様々なシーンで活用できます。気持ちに合わせて上手に使い分けることで、コミュニケーションがより円滑になるでしょう。
 
-```
-amazon-linux-extras install golang1.11 && hugo --gc --minify
-```
+## まとめ
 
-![](https://user-images.githubusercontent.com/5889006/156917172-01e4d418-3469-4ffb-97e4-a905d28b8424.png)
-
-Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
-
-![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
-</details>
+[顔文字一覧](https://ikaomoji.com) には、愛らしい表情の顔文字がたくさん紹介されています。これらの顔文字を使うことで、相手に優しい雰囲気を醸し出したり、気持ちを効果的に伝えたりできます。コミュニケーションの幅が広がるので、ぜひ「かわいい」顔文字を活用してみてください。
